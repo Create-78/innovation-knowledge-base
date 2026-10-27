@@ -1,6 +1,6 @@
 # Innovation knowledge base
 
-Lessons on innovation operating models, drawn from notable innovation centers. **Read `METHODOLOGY.md` first:** sources were seen in web-search results but no page could be opened, so facts are not verified against primary pages.
+Lessons on innovation operating models, drawn from notable innovation centers. **Read `METHODOLOGY.md` first:** profiles were re-checked against opened pages in a verification pass; each profile's header lists which claims remain unverified.
 
 ## Layout
 
@@ -20,7 +20,7 @@ knowledge-base/
 │   ├── research-institutes-janelia-fraunhofer-fros.md
 │   └── corporate-innovation-cultures-pixar-amazon-3m-toyota.md
 └── synthesis/
-    ├── operating-model-lessons.md           30 cross-cutting lessons with evidence grades
+    ├── operating-model-lessons.md           30 cross-cutting lessons (plus L8a) with evidence grades
     ├── comparison-matrix.md                 centers side by side
     ├── adoption-playbook.md                 checklist for designing an innovation unit
     └── research-literature-on-rd-organization.md   academic evidence layer
@@ -37,5 +37,5 @@ knowledge-base/
 1. Long-lived centers had a funding base tied to the parent's revenue or a government mission.
 2. The recurring failure is hand-off to a business, not invention.
 3. Decline tracks ownership and funding shocks.
-4. Best quasi-experimental evidence concerns funding structure (HHMI vs. NIH) and IP licensing (AT&T 1956 decree).
+4. Best quasi-experimental evidence concerns funding structure (HHMI vs. NIH: +39% publications, +97% top-1%, matched on observables) and IP licensing (AT&T 1956 decree).
 5. Most other claims are single-case and should be treated as hypotheses.
