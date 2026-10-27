@@ -1,6 +1,6 @@
 # Comparison matrix
 
-> Derived from the profiles in `../centers/`; all of them rest on search-result summaries, not opened pages (see `../METHODOLOGY.md`). Cells are qualitative summaries. "n/r" = not retrieved. The corporate cultures profile (Pixar, Amazon, 3M, Toyota) arrived after this table was drafted and is not yet included; see `../centers/corporate-innovation-cultures-pixar-amazon-3m-toyota.md`.
+> Derived from the profiles in `../centers/`; all of them rest on search-result summaries, not opened pages (see `../METHODOLOGY.md`). Cells are qualitative summaries. "n/r" = not retrieved.
 
 | Center | Funding logic | Selection / authority | Team model | Output → market path | Typical failure mode | Profile |
 |---|---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | DARPA | Congressional budget (~$3B/yr per CRS) | Term-limited program managers; R&D outsourced | Small agency staff, external performers | Transition to services or industry | Weak transition tracking; political shocks | [darpa](../centers/darpa.md) |
 | Edison / GE / DuPont / IBM Research | Corporate | Executive sponsorship of "pure" research | Company labs, some multi-site | Via existing product platforms | Hand-off breaks; decline of corporate science | [industrial-labs](../centers/industrial-labs-edison-ge-dupont-ibm.md) |
 | Manhattan / Rad Lab / Apollo | State, wartime or national mission | Single mission, strong central authority | Large interdisciplinary programs | Single government customer | Cost, secrecy trade-offs; hard to transfer to peacetime | [mission-labs](../centers/mission-labs-manhattan-radlab-apollo.md) |
+| Pixar / Amazon / 3M / Toyota | Corporate operating budgets | Pixar: peers advise, director decides; Amazon: single named owner; 3M: technologists plus shared platforms; Toyota: chief engineer, set-based options | Small cross-functional teams; Braintrust; two-pizza teams | Inside the existing business | Drift after growth/cost pressure (Pixar sequels, 3M Six Sigma era, Amazon Fire Phone) | [corporate-cultures](../centers/corporate-innovation-cultures-pixar-amazon-3m-toyota.md) |
 | Janelia / Fraunhofer / FROs | Philanthropy; mixed state/contract; time-limited gifts | Long horizon (HHMI); milestone gates (FROs) | Small groups, shared infrastructure | Open resources; contract research | Outcome evidence thin or self-reported | [research-institutes](../centers/research-institutes-janelia-fraunhofer-fros.md) |
 
 ## Reading across the rows

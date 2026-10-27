@@ -65,6 +65,26 @@ Evidence key: **strong** = quasi-experimental or multiple independent sources; *
 
 **L22. Do not credit one agency with whole technology lineages, and do not copy surface features.** [moderate] Moderna and Siri show partial DARPA roles [DARPA 20][21][22]; Fraunhofer needs a dense SME base and a restructuring-capable state [Institutes policy commentary, weak].
 
+## 6. Corporate operating cultures (Pixar, Amazon, 3M, Toyota)
+
+Source: `../centers/corporate-innovation-cultures-pixar-amazon-3m-toyota.md` (40 sources, all search-summary only; none graded strong).
+
+**L23. Separate advice from authority in exploratory reviews.** [moderate] Pixar's Braintrust gives voice without veto and names one accountable owner [Corporate 3][4][7]; no outcome studies.
+
+**L24. Write the customer outcome before building.** [weak] Amazon's PR/FAQ and memos are testimonial evidence; the Fire Phone ($170M write-down) shows it is insufficient [Corporate 12][17][18].
+
+**L25. Staff ventures with a dedicated empowered leader, not small size alone.** [weak] Secondhand Amazon notes [Corporate 11]. Reinforces L3 and L9.
+
+**L26. Keep options alive until learning justifies narrowing, when late change is costly.** [moderate] Toyota set-based engineering; transfer beyond Toyota is difficult [Corporate 33][35].
+
+**L27. Protect exploratory slack, with sharing norms and platform reuse.** [weak] 3M's 15% time evidence is descriptive; no peer-reviewed output measure was found [Corporate 21-23].
+
+**L28. Do not apply efficiency metrics unchanged to exploratory R&D.** [moderate, causality contested] 3M's Six Sigma era saw new-product share fall while margins rose [Corporate 29][30].
+
+**L29. Watch for drift after growth, acquisition or cost pressure; set portfolio guardrails.** [inference] Pixar post-Disney, Toyota [Corporate 8][10][37].
+
+**L30. Measure outcomes, not only inputs.** [weak] 3M's New Product Vitality Index; predictive validity not found [Corporate 30].
+
 ## Where the evidence is thinnest
 
 - No source gives a controlled comparison of any center against a counterfactual [DARPA open gaps].

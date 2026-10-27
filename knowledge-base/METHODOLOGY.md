@@ -24,5 +24,5 @@ Allow outbound access to the key hosts (Wikipedia, `darpa.mil`, `lockheedmartin.
 
 ## Status of coverage
 
-Covered: Pixar/Amazon/3M/Toyota (centers file; not yet folded into the synthesis lessons), Bell Labs, Xerox PARC, Skunk Works, Google X, DARPA (+ARPA-E, IARPA, ARPA-H, ARIA), Edison/GE/DuPont/IBM, Manhattan/Rad Lab/Apollo, Janelia/Fraunhofer/FROs, academic literature.
-Not yet folded into `synthesis/operating-model-lessons.md` or the comparison matrix: the corporate cultures profile arrived after the synthesis was drafted.
+Covered: Pixar/Amazon/3M/Toyota, Bell Labs, Xerox PARC, Skunk Works, Google X, DARPA (+ARPA-E, IARPA, ARPA-H, ARIA), Edison/GE/DuPont/IBM, Manhattan/Rad Lab/Apollo, Janelia/Fraunhofer/FROs, academic literature.
+All profiles are folded into the synthesis (lessons L1-L30).

@@ -20,7 +20,7 @@ knowledge-base/
 │   ├── research-institutes-janelia-fraunhofer-fros.md
 │   └── corporate-innovation-cultures-pixar-amazon-3m-toyota.md
 └── synthesis/
-    ├── operating-model-lessons.md           22 cross-cutting lessons with evidence grades
+    ├── operating-model-lessons.md           30 cross-cutting lessons with evidence grades
     ├── comparison-matrix.md                 centers side by side
     ├── adoption-playbook.md                 checklist for designing an innovation unit
     └── research-literature-on-rd-organization.md   academic evidence layer
