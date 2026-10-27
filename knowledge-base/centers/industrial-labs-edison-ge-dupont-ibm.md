@@ -81,7 +81,7 @@
 - San Jose lab (1952): the IBM 350 disk file, first commercial moving-head hard disk, in the 305 RAMAC (available 4 Sept 1956, 5 MB on 50 24-inch disks) [28]. Moved to Almaden in 1986 [28].
 - Relational model: Codd published in 1970 at San Jose [29]. System R (from 1973 or 1974, sources differ) was the first SQL implementation, designed by Chamberlin and Boyce, with Jim Gray contributing [29][30]. Chamberlin credits Codd with the key insights and calls the System R team "the carpenters" [30]. Codd received the 1981 Turing Award [29].
 - Zurich lab (1956, moved to Rüschlikon 1962 to 1963; Ambros Speiser director 1956 to 1966; IBM's only research centre outside the US at the time) [27].
-- STM: Binnig and Rohrer, Zurich, 1981 invention, 1986 Nobel Prize in Physics (quarter share each) [22][23].
+- STM: Binnig and Rohrer, Zurich, 1981 invention, 1986 Nobel Prize in Physics (quarter share each) [23].
 - High-temperature superconductivity: Bednorz and Müller, Zurich, 1986 La-Ba-Cu-O oxide with Tc about 35 K, 1987 Nobel Prize, reportedly the shortest discovery-to-award gap for a scientific Nobel [24].
 - Count of IBM Nobel laureates: AIP says five [26]; a Wikipedia mirror says six, with six Turing Awards (sources differ). Esaki (1973, Yorktown) is the fifth in the five-count, but I found only a weak source for his IBM affiliation [26]. Giaever is a GE laureate, not IBM [19].
 
@@ -90,7 +90,7 @@
 - Basic science and product-adjacent work sit in one organization. IBM Research made the disk drive and the relational model, which fed IBM products (SQL/DS 1981, renamed DB2 in 1983) [28][29].
 
 ### What worked
-- Open-ended solid-state physics in Zurich yielded two Nobel Prizes within two years [22][24].
+- Open-ended solid-state physics in Zurich yielded two Nobel Prizes within two years [23][24].
 - Both STM and the superconductor are instruments or materials discoveries by small teams. **[Inference]** The sources give no team sizes.
 
 ### Failure modes
@@ -100,7 +100,7 @@
 ## Cross-lab patterns
 
 1. **Four institutional forms.** Edison's lab was personal and investor-financed [13]. GE's and IBM's were corporate labs created by firms with strong product bases. DuPont's was corporate but began with explosives and diversification [4]. Mowery's description of the corporate lab as bringing invention inside the firm and reducing the independent inventor's role is consistent with all four [32][33].
-2. **Recurring Nobel-class science followed a coupling to a product line.** Langmuir to Coolidge to the lamp and X-ray business [18]; Carothers to nylon [5][9]; Zurich physics to IBM's electronics business [22][24]. This is an inference from the cases, not a finding in the sources.
+2. **Recurring Nobel-class science followed a coupling to a product line.** Langmuir to Coolidge to the lamp and X-ray business [18]; Carothers to nylon [5][9]; Zurich physics to IBM's electronics business [23][24]. This is an inference from the cases, not a finding in the sources.
 3. **A recurrent gap between invention and commercialization.** Examples: Corfam [10], IBM's relational database [29], and Edison's inability to keep Menlo Park running [14].
 4. **Later retrenchment or reorganisation.** GE closed overseas sites [21], DuPont renamed and merged its research unit [4], and Arora et al. document a decline in publications by US corporate scientists over 1980 to 2006 while the patent-related value of technical knowledge stayed stable [1][2].
 5. **Founder-scientist leadership.** Whitney, Coolidge, Stine, Speiser and Edison each combined research and business advocacy [5][17][18][27]. **[Inference]**
@@ -112,7 +112,7 @@
 3. **Plan the hand-off from lab to business unit before the discovery.** Corfam, IBM's relational database and Menlo Park show different breaks in the chain. [Evidence: moderate for Corfam [10] and IBM [29]; weak for causal generalisation] 
 4. **Do not treat patents as a substitute for in-house science.** Arora et al. find that firms keep valuing the output but fund the capability less. [Evidence: strong for the publication decline [1][2]; the causal story is contested, see below]
 5. **Build institutions that outlast the founder.** Menlo Park ended with the move to West Orange [14], whereas GE's lab continued after Whitney for decades [18]. [Evidence: weak, two cases] **[Inference]**
-6. **Distribute research across sites for talent access but expect cost and coordination pressure.** Zurich's success [22][24] contrasts with GE's expansion and then closure of overseas labs [21]. [Evidence: weak]
+6. **Distribute research across sites for talent access but expect cost and coordination pressure.** Zurich's success [23][24] contrasts with GE's expansion and then closure of overseas labs [21]. [Evidence: weak]
 7. **Treat instrument- and materials-led discovery as a portfolio bet.** STM and the oxide superconductor came from small groups. Judge on the portfolio, not individual projects. [Evidence: weak] **[Inference]**
 
 ## Open questions / contested claims
