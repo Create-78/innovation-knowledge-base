@@ -8,6 +8,8 @@ Lessons on innovation operating models, drawn from notable innovation centers. *
 knowledge-base/
 ├── README.md                 this file
 ├── METHODOLOGY.md            how it was built, limitations, next steps
+├── handbook/
+│   └── operating-an-innovation-team.md      operational handbook of practices, graded by evidence
 ├── centers/                  one profile per center or group (template: snapshot, outputs,
 │                             operating model, what worked, failure modes, lessons, sources)
 │   ├── bell-labs.md
@@ -28,6 +30,7 @@ knowledge-base/
 
 ## Where to start
 
+- Want to run a team: `handbook/operating-an-innovation-team.md`.
 - Want the answer first: `synthesis/operating-model-lessons.md`, then `synthesis/adoption-playbook.md`.
 - Want one center: open its file in `centers/`; the **Sources** list is at the bottom.
 - Want to judge how far to trust a claim: check its `[Evidence: ...]` tag and `METHODOLOGY.md`.
